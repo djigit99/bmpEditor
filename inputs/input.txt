@@ -1,0 +1,3 @@
+airplane.bmp
+25
+airplane.bin
